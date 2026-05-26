@@ -23,5 +23,5 @@ The simulation can be used to experiment with fire spread by changing variables 
 
 ```text
 heather-wildfire-simulator/
-├── Skogbrannsimulator.py
+├── heather-wildfire-simulator.py
 └── README.md
